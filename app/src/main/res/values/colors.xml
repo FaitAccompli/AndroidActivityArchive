@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!--Facebook color palette -->
+    <color name="darkBlue">	#3b5998</color>
+    <color name="middleBlue">#8b9dc3</color>
+    <color name="lightBlue">#dfe3ee</color>
+    <color name="gray">#f7f7f7</color>
+    <color name="white">#ffffff</color>
+
+    <color name="background">#F2F3F5</color>
+    <color name="content">#f8fbff</color>
+    <color name="navbar">#4267b2</color>
+    <color name="text">#000</color>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MajorActivity1</string>
+    <string name="splashWelcome">Welcome to Ray Mart\'s Android Archive</string>
+    <string name="name">Ray Mart M. Montesclaros</string>
+    <string name="nickname">RM</string>
+    <string name="course">BS Electronics Engineering</string>
+    <string name="birthplace">Catbalogan City Samar</string>
+    <string name="movie">Good Will Hunting</string>
+    <string name="series">How I Met Your Mother</string>
+    <string name="book">Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future</string>
+    <string name="motto">"Belief like any other moving body follows the path of least resistance"</string>
+    <string name="objective">Interested to pursue a long-term career in Electronics Engineering, Software Development, Robotics, Artificial Intelligence, Renewable Energy and Internet of Things.</string>
+
+</resources>
